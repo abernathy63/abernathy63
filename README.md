@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abernathy63
-- 👀 I’m interested in learning about TRUENAS.
-- 🌱 I have just made a TRUENAS system from an old pc and trying to configure it.
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
